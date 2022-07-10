@@ -9,22 +9,8 @@
 - создание Test Project и Test Case.
 - cоздание проекта.
 
-#### Lesson 2 / [Homework](https://github.com/Mybono/java_auto_test/blob/master/hw2.md) / [ReadMe](https://github.com/Mybono/-backend-Java/blob/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D1%87%D0%BA%D0%B0%202.%20%D0%A0%D1%83%D1%87%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20RESTful%20API-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BE%D0%B2%20%D1%81%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%20Postman.pdf) / [Video](https://youtu.be/-1eJjeTLYfY)
-- Создание проекта с архетипом
-- описание всех каталогов
-- Файл POM
-- Жизненный цикл сборки
-#### Lesson 3 / [Homework](https://github.com/Mybono/java_auto_test/blob/master/hw3.md) / [ReadMe](https://docs.google.com/document/d/1QJEcPxJu9ZYmcZuad7gIPjZ8XHss0wYTQ4rJjnPcCUI/edit#heading=h.gjdgxs) / [Video](https://youtu.be/nKWZpsD-wB4)
-- Добавление зависимостей в проект
-    - Установка конкретного драйвера
-    - Использование WebDriverManager
-- Поиск элементов
-- Использование WebDriver
-    - Основные методы драйвера
-    - Взаимодействие с элементами
-- Ожидания
-    - Неявные ожидания
-    - Явные ожидания
+#### Lesson 2 / [Homework]() / [ReadMe](https://docs.google.com/document/d/1QJEcPxJu9ZYmcZuad7gIPjZ8XHss0wYTQ4rJjnPcCUI/edit#heading=h.gjdgxs) / [Video](https://youtu.be/E97o0tY5X7U)
+
 #### Lesson 4 / [Homework]() / [ReadMe](https://docs.google.com/document/d/1kn3o_AsxfAgrJW-g74b_-zaRkSXYXAv2PGlpD4gWR8E/edit) / [Video](https://youtu.be/mgcQdf-zSXE)
 - Знакомство с JUnit
     - Обзор
